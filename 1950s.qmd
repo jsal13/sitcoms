@@ -5,13 +5,13 @@ Sitcoms from the 1950s had a distinct "theatre" feeling to them, as if plucked u
 **When watching these clips, keep the following things in mind:**
 
 - How are the characters _acting_?  Does it feel like a staged production like a play?  Do you _believe_ that the characters like each other?  How do characters act when they're speaking to each other (looking each other in the eyes, etc.), and how do characters act when they're in the background in a scene?
-- Notice when the characters make an error (say a slightly wrong thing, speak over laughter).  How do they repair that damage?
-- Notice how they play to their audience who would, at that time, be middle-class Americans who owned a TV set.
+- Notice when the characters make an error (say a slightly wrong thing, speak over laughter).
+- Notice how they play to their audience (middle-class Americans who owned a TV set).
 - Notice that many of these scenes could be their own sketches if isolated from the show.
 
 ## Sketch-like Scenes
 
-Some of our favorite, most memorable sitcom scenes also work as stand-alone sketches.  These scenes will have the following structure:
+Some of the most memorable sitcom scenes also work as stand-alone sketches.  These scenes will have the following structure:
 
 1. The _rules_ are defined.
 2. The _stakes_ are described.
@@ -19,7 +19,7 @@ Some of our favorite, most memorable sitcom scenes also work as stand-alone sket
 4. Some _soutions_ are attempted.
 5. The situation _resolves_ or the scene ends.
 
-:::{.callout-tip}
+:::{.callout-info}
 The sketch-scene pattern: **Rules, Stakes, Problem, Solutions, Resolution**.
 :::
 
@@ -71,9 +71,9 @@ Notice this also uses a phrase to call the audience back to how silly the scene 
 
 ![](The_Honeymooners_full_cast_1955.jpeg "The Honeymooners")
 
-Derived from Jackie Gleason's sketch comedy show of the same name, _The Honeymooners_ is about the daily lives of bus driver Ralph Kramden (notice the "blue collar" appeal to this!) and his wife Alice, along with their friends Ed and Trixie Norton.  Notice the similarities to _I Love Lucy_: a married couple and their married friends get into zany schemes and problems.  The Honeymooners _also_ takes place in NYC.
+Derived from Jackie Gleason's sketch comedy show of the same name, _The Honeymooners_ is about the daily lives of bus driver Ralph Kramden (notice the "blue collar" appeal to this!) and his wife Alice, along with their friends Ed and Trixie Norton.  Notice the similarities to _I Love Lucy_: a married couple and their married friends get into zany schemes and problems in NYC.
 
-We have similar "tools" as _I Love Lucy_:
+Similar to _Lucy_, _The Honeymooners_ has some of the same sitcom staples:
 
 - **Setting up a problem (or two) for the episode with a clear, unambiguous problem statement**. 
 - **The use of catch phrases**.  
@@ -81,11 +81,15 @@ We have similar "tools" as _I Love Lucy_:
 - **Caricatured, broad characters**.
 - **Scenes which are functionally sketches**.
 
-Similar to above, we'll look at two scenes.  The first is the famous Mambo scene, where Ralph does not want to learn the Mambo with Alice.  The second is Blabbermouth where Ralph says _nothing_ for the first three minutes of the sketch.
+We'll look at two scenes.  The first is the famous Mambo scene, where Ralph does not want to learn the Mambo with Alice.  The second is Blabbermouth where Ralph says _nothing_ for the first three minutes of the sketch.
 
-:::{.callout-tip}
+:::{.callout-info}
 Notice that there is a fair amount of **physicality and clown-like movement** in these (as well as in _Lucy_'s).
 :::
+
+## TL;DR
+
+Sitcoms in the 1950s have a similar "feel" to theatre shows, set up specific problems with a pay-off lesson at the end, had scenes similar to comedy sketches, and were liberal in their usage of catch phrases.
 
 {{< video https://www.youtube.com/watch?v=_-FhWB1POWQ >}}
 
