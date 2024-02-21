@@ -1,4 +1,4 @@
-# The 1950s
+# The 1950s {.unnumbered}
 
 Sitcoms from the 1950s had a distinct "theatre" feeling to them, as if plucked up from a variety show.  We'll look briefly at two of the giants of Sitcoms from the 1950s: _I Love Lucy_ and _The Honeymooners_.
 
@@ -19,8 +19,15 @@ Some of the most memorable sitcom scenes also work as stand-alone sketches.  The
 4. Some _soutions_ are attempted.
 5. The situation _resolves_ or the scene ends.
 
-:::{.callout-info}
-The sketch-scene pattern: **Rules, Stakes, Problem, Solutions, Resolution**.
+:::{.callout-note}
+## The Sketch-Scene Pattern
+The sketch-scene pattern: 
+
+1. **Rules**
+1. **Stakes**
+1. **Problem**
+1. **Solutions**
+1. **Resolution**
 :::
 
 We'll see this played out below.
@@ -83,8 +90,8 @@ Similar to _Lucy_, _The Honeymooners_ has some of the same sitcom staples:
 
 We'll look at two scenes.  The first is the famous Mambo scene, where Ralph does not want to learn the Mambo with Alice.  The second is Blabbermouth where Ralph says _nothing_ for the first three minutes of the sketch.
 
-:::{.callout-info}
-Notice that there is a fair amount of **physicality and clown-like movement** in these (as well as in _Lucy_'s).
+:::{.callout-tip}
+Notice that there is a fair amount of **physicality and clown-like movement** in these 1950s sketch-scenes.
 :::
 
 ## TL;DR
