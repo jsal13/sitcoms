@@ -1,0 +1,19 @@
+project:
+  type: book
+
+book:
+  title: "Sitcoms"
+  author: "James Salvatore"
+  date: "2024-02-20"
+  chapters:
+    - index.qmd
+    - 1950s.qmd
+
+format:
+  html:
+    theme: cosmo
+  # pdf:
+  #   documentclass: scrreprt
+
+
+

@@ -1,0 +1,82 @@
+# The 1950s
+
+Sitcoms from the 1950s had a distinct "theatre" feeling to them, as if plucked up from a variety show.  We'll look briefly at two of the giants of Sitcoms from the 1950s: _I Love Lucy_ and _The Honeymooners_.
+
+**When watching these clips, keep the following things in mind:**
+
+- How are the characters _acting_?  Does it feel like a staged production like a play?  Do you _believe_ that the characters like each other?  How do characters act when they're speaking to each other (looking each other in the eyes, etc.), and how do characters act when they're in the background in a scene?
+- Notice when the characters make an error (say a slightly wrong thing, speak over laughter).  How do they repair that damage?
+- Notice how they play to their audience who would, at that time, be middle-class Americans who owned a TV set.
+- Notice that many of these scenes could be their own sketches if isolated from the show.
+
+## I Love Lucy
+
+![](I_love_lucy_1956.jpeg "I Love Lucy")
+
+_I Love Lucy_ is an American sitcom which began airing in 1951 and ended after 6 seasons (180 episodes).  The show is set in an apartment building in NYC where Lucy and Ricky Ricardo rent an apartment from their landlords and best friends Fred and Ethel Mertz.
+
+There are a number of common "tools" that _I Love Lucy_ uses which other sitcoms also tend to use:
+
+- **Setting up a problem (or two) for the episode with a clear, unambiguous problem statement**. 
+  - _"Lucy, every single month your bank account is overdrawn!"_  Ricky implies that Lucy doesn't appreciate money which leads to Lucy and Ethel going to work in a factory to learn the value of a dollar while Ricky and Ethel do the housework.  At the end, everyone realizes that the other does a hard job and deserves respect.
+- **The use of catch phrases**.  
+  - _"Lucy, you got some 'splainin' to do!"_
+- **Caricatured, broad characters**.
+  - Ricky is the protoypical "fish out of water" in that he is Cuban-American.  This is used to comedic effect when he doesn't quite know the correct English terms for things.
+  - Lucy is a mischievous wife who is always getting into trouble and going behind her husband's back to get what she wants.
+- **Scenes which are functionally sketches**.
+
+To illustrate this last point, the Chcolate Factory Assembly Line --- one of the most famous scenes from _I Love Lucy_ --- is functionally a sketch and could stand even if we didn't know much about the characters.
+
+{{< video https://www.youtube.com/watch?v=AnHiAWlrYQc >}}
+
+1. The _stakes_ are defined (they need to do this correctly to keep their jobs).
+2. The _rules_ are defined (they have to keep up with the assembly line).
+3. A problem comes up (the assembly line starts going too fast).
+4. Some soutions are attempted (eating the candy, putting the candy in front of them, etc.).  This is the main source of the humor.
+5. The situation resolves (or fades out).
+
+Another famous sketch-like scene is the Vitameatavegimen Commercial.
+
+{{< video https://www.youtube.com/watch?v=6x4Uk7qWRR8 >}}
+
+1. The _stakes_ are defined (she needs to do this to get paid).
+2. The _rules_ are defined (she needs to listen to the director.
+3. A problem comes up (she starts getting tipsy after drinking some of it and can't perform well).
+4. The "solutions" attempted are her attempting to act through her tipsiness.  This is the main source of the humor.
+5. The situation resolves (or fades out).
+
+Notice this also uses a phrase to call the audience back to how silly the scene is getting: _"It's so tasty, too!"_ 
+
+**Notice that the sketches follow approximately the same format above.  This is not a coincidence.**
+
+## The Honeymooners
+
+![](The_Honeymooners_full_cast_1955.jpeg "The Honeymooners")
+
+Derived from Jackie Gleason's sketch comedy show of the same name, _The Honeymooners_ is about the daily lives of bus driver Ralph Kramden (notice the "blue collar" appeal to this!) and his wife Alice, along with their friends Ed and Trixie Norton.  Notice the similarities to _I Love Lucy_: a married couple and their married friends get into zany schemes and problems.  The Honeymooners _also_ takes place in NYC.
+
+We have similar "tools" as _I Love Lucy_:
+
+- **Setting up a problem (or two) for the episode with a clear, unambiguous problem statement**. 
+- **The use of catch phrases**.  
+  - _"One'a these days, Alice... Bang, Boom, Straight to the Moon!"_
+- **Caricatured, broad characters**.
+- **Scenes which are functionally sketches**.
+
+Similar to above, we'll look at two scenes.  The first is the famous Mambo scene, where Ralph does not want to learn the Mambo with Alice.  The second is Blabbermouth where Ralph says _nothing_ for the first three minutes of the sketch.
+
+Notice how similar the sketches follows the pattern: **Stakes of the Situation**, **Rules of the Situation**, **Problem occurs**, **Solutions are attempted**, **Problem is resolved, or there is a fade out.**
+
+Additionally, notice that there is a fair amount of **physicality and clown-like movement** in these (as well as _Lucy_'s).
+
+{{< https://www.youtube.com/watch?v=_-FhWB1POWQ >}}
+
+{{< video https://www.youtube.com/watch?v=F-1vzx6c3tQ >}}
+
+
+
+
+
+
+[^1]: <https://www.merriam-webster.com/dictionary/sitcom>
